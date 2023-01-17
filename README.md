@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Framerworks and Programming Languages everyday**
 
-- 💬 Ask me about **CSS, HTML, JS, React, Typescript**
+- 💬 Ask me about **CSS, HTML, JavaScript, React**
 
 - 📫 How to reach me **jalexisgarcia.91@gmail.com**
 
-- ⚡ Fun fact: **I think I am a very happy person. I like to help people who need it. I love solving problems and solving conflicts that prevent reaching the goal. I like to learn new technologies without limits.**
+- ⚡ **I think I am a very happy person. I like to help people who need it. I love solving problems and solving conflicts that prevent reaching the goal. I like to learn new technologies without limits.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
