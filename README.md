@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Framerworks and Programming Languages everyday**
 
-- 💬 Ask me about **CSS, HTML, JA**
+- 💬 Ask me about **CSS, HTML, JS, React, Typescript**
 
 - 📫 How to reach me **jalexisgarcia.91@gmail.com**
 
