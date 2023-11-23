@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Garcia</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
-- 🔭 My last proyect was [NABIJASH](https://nabijash.vercel.app/)
+- 🔭 My last proyect was [KARKU]([https://nabijash.vercel.app/](https://www.karku.com.ar/))
 
 - 🌱 I’m currently learning **Framerworks and Programming Languages everyday**
 
